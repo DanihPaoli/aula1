@@ -1,0 +1,50 @@
+*{
+margin:0;
+padding:0;
+box-sizing: border-box;
+
+}
+
+#container{
+    width: 1110px;
+    height:800px;
+    background-color: red;
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-right: 50px;
+}
+#dividido{
+    width: 1110px;
+    height:1000px;
+    margin-left: 50px;
+    margin-right: 50px;
+    display:flex;
+    flex-direction: row;
+    max-width: 1110px;
+
+}
+
+#amarelo{
+    width:370px;
+    height:350px;
+    background-color: yellow;
+}
+
+#verde{
+    width:370px;
+    height:350px;
+    background-color: green;
+    
+}
+#azul{
+    width:370px;
+    height:350px;
+    background-color: blue;
+}
+#laranja{
+    width: 1110px;
+    height:600px;
+    background-color: orange;
+    margin-left: 50px;
+    margin-right: 50px;
+}
